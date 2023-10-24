@@ -12,7 +12,7 @@
 {{-- List table product --}}
 <div class="card">
     <div class="card-header">
-      <h3 class="card-title">Daftar Admin</h3>
+      <h3 class="card-title">Daftar Admins</h3>
     </div>
     <div class="card-body">
       {{-- Alert after create new's product --}}
